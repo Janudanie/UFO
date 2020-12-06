@@ -1,0 +1,102 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.21)  6 DEC 2020 14:59
+entering extended mode
+**"c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex"
+("c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex"
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box47
+\extrarowheight=\dimen140
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count183
+\TX@ftn=\toks16
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count184
+\l__pdf_internal_box=\box49
+) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux")
+\openout1 = `article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex" [1
+
+{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+
+Overfull \hbox (8.97833pt too wide) in paragraph at lines 13--40
+ [][] 
+ []
+
+
+Overfull \hbox (64.06181pt too wide) in paragraph at lines 13--40
+ [] 
+ []
+
+) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Conclusion.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.bbl") [2] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux") ) 
+Here is how much of TeX's memory you used:
+ 618 strings out of 480257
+ 11503 string characters out of 2880493
+ 277231 words of memory out of 3000000
+ 17202 multiletter control sequences out of 15000+200000
+ 537109 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,9n,55p,389b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Andreas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.pdf" (2 pages, 67664 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

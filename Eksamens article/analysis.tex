@@ -1,2 +1,45 @@
 \section{Analysis}
 \label{section:analysis}
+
+
+\subsection{TDD vs TLD - Pros and cons}
+ 
+Each of the two test strategies has their pros and cons. Some of the most common pros and cons can be seen 
+in the tabel figure 
+\ref{table: procons} 
+\begin{table}[h]
+    
+    \centering
+    \begin{tabular}{|l | l|}
+        \hline
+        \multicolumn{2}{|c|}{TDD} \\
+        \hline
+        \textbf{Pros} & \textbf{Cons}  \\ \hline
+        Code becomes modular &  Takes a lot of extra coding  \\ 
+        Decect bugs early & Can result in major refactorring later   \\ 
+        Cheaper to fix &  Require often reconfiguration of suites  \\
+        Refactorring becomes easier &  Hard to make well defined tests  \\      
+        Faster development &  A lot of wasted time in constant changing code \\ 
+        Cleaner code &  Steep learning curve  \\   
+        \hline
+    \end{tabular}
+    \quad
+    \newline
+    \newline  
+    \begin{tabular}{|l| l|}
+        \hline
+        \multicolumn{2}{|c|}{TLD} \\
+        \hline
+        \textbf{Pros} & \textbf{Cons}  \\ \hline
+        Easy to do and understand &  Expensive to maintaine  \\ 
+        Code is ls less complex & Testing can become too wide  \\ 
+        Does not require extra refractoring &  Bugs are discovered late in development  \\
+        Has a lot less code & No pre-testing of new function introducing new bugs  \\  \hline
+    
+    \end{tabular}
+    \caption{}  
+    \label{table: procons}
+    \end{table}
+
+
+
