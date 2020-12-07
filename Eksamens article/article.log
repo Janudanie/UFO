@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.21)  6 DEC 2020 14:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.21)  7 DEC 2020 15:59
 entering extended mode
 **"c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex"
 ("c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex"
@@ -41,27 +41,53 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \TX@delta=\dimen145
 \TX@cols=\count183
 \TX@ftn=\toks16
-) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count184
+\lst@gtempboxa=\box49
+\lst@token=\toks18
+\lst@length=\count185
+\lst@currlwidth=\dimen146
+\lst@column=\count186
+\lst@pos=\count187
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count188
+\lst@lineno=\count189
+\lst@maxwidth=\dimen149
+ (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count190
+\lst@skipnumbers=\count191
+\lst@framebox=\box50
+) (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+ (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count184
-\l__pdf_internal_box=\box49
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box51
 ) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux")
 \openout1 = `article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+\c@lstlisting=\count193
  ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
@@ -69,34 +95,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
 ) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex" [1
 
-{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 13.
+{C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\GradeCodeSnippet.tex" (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 37--7
 
-Overfull \hbox (8.97833pt too wide) in paragraph at lines 13--40
- [][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 9.
+(C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 10.
+ (C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex/latex/base\omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+[3] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\tables.tex"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+Overfull \hbox (8.97833pt too wide) in paragraph at lines 3--16
+[][] 
  []
 
 
-Overfull \hbox (64.06181pt too wide) in paragraph at lines 13--40
- [] 
+Overfull \hbox (8.645pt too wide) in paragraph at lines 21--33
+[][] 
  []
 
-) ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Conclusion.tex") ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.bbl") [2] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux") ) 
+)) [4] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Conclusion.tex") [5] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.bbl"
+Underfull \hbox (badness 7186) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/10 Susan Ham-mond.  Risk/re-ward anal-y-sis of test-driven de-vel-op-
+ []
+
+) [6] ("c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux") ) 
 Here is how much of TeX's memory you used:
- 618 strings out of 480257
- 11503 string characters out of 2880493
- 277231 words of memory out of 3000000
- 17202 multiletter control sequences out of 15000+200000
- 537109 words of font info for 36 fonts, out of 3000000 for 9000
+ 2383 strings out of 480257
+ 35406 string characters out of 2880493
+ 506108 words of memory out of 3000000
+ 18934 multiletter control sequences out of 15000+200000
+ 537408 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,9n,55p,389b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Andreas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.pdf" (2 pages, 67664 bytes).
+ 47i,8n,57p,768b,1383s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Andreas\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Andreas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:/Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.pdf" (6 pages, 109221 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

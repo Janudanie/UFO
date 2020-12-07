@@ -1,8 +1,20 @@
 \begin{thebibliography}{1}
 
-\bibitem{cp2018}
-Christian Peters.
-\newblock When to use tdd and when not to use tdd.
-\newblock \url{https://blog.ncrunch.net/post/when-not-to-use-tdd.aspx}.
+\bibitem{sh2019}
+Susan Hammond.
+\newblock Risk/reward analysis of test-driven development.
+\newblock
+  \url{https://etd.auburn.edu/bitstream/handle/10415/6890/Susan%20Hammond%20Dissertation.pdf?sequence=2&isAllowed=y}.
+
+\bibitem{sh2015}
+Simon Hill.
+\newblock The pros and cons of test-driven development.
+\newblock \url{https://leantesting.com/test-driven-development/}.
+
+\bibitem{sr2019}
+Sam Redmond.
+\newblock Why we shouldn’t use tdd.
+\newblock
+  \url{https://medium.com/@sredmond/why-we-shouldnt-use-tdd-fcd12992d093}.
 
 \end{thebibliography}
