@@ -1,56 +1,56 @@
 \section{Analysis}
 \label{section:analysis}
 The analysis will be composed from a range of articles and write-ups by authors who argue for and against TDD or TLD. 
-Some will also be more objective views and focus more on the comparison of the two, and when one excels over the other, 
-and some more subjective with the purpose of getting you to subscribe to one strategy. 
-Then lastly build a conclusion from their citations and experience.   
+Some will also be more objective views and focus more on the comparison of the two, and when one excels over the other. 
+Some of the articles will be subjective with the purpose of getting you to subscribe to one strategy. 
+Then build a conclusion from their citations and experience.   
 
 
 
 \subsection{Why TDD?}
 Code becomes modular:
-When you are using TDD the code becomes more modular. The reason is that a developer now first writes a test and then write the code that will let that test pass.  Doing this makes the developer starting to think more in modules as they are easily tested. The real downside here, is that the developer is going to use more time writing code.
+When using TDD, the code becomes more modular. The reason for this is that a developer writes a test and then writes the code to satisfy the test.  This makes the developer think more in modules as they are easily tested. The real downside here, is that the developer is going to use more time writing the code.
 
 Detect bugs early:
-When writing the test first, the developer can get instant feedback if their code is working as it should, by simply running the test. This will help with early bug fixing.  
+When writing the test first, the developers get instant feedback if the code is working as it should, by simply running the test. This will help with fiding and fixing bugs earlier.  
 
 Cheaper to fix:
-When a developer can get instant results on whether the code is passed or not, the developer can quickly change the code to be correct, while his mind is focused on this piece of code. If the developer comes back to test the code even a few days later, he will first have to get the code into his head, which can take a lot more time.
-A drawback can be, that the test suites becomes to big and therefor takes too long to execute. Then there would be a lot of time needed to be invested into reducing the test suite.
+When a developer can get instant results on whether the code has passed or not, the developer will quickly change the code to be correct, while his mind is focused on this piece of code. If the developer comes back to test the code even a few days later, he will first have to get the code into his head, which takes a lot more time.
+A drawback can be, that the test suites becomes to big and therefor takes too long to execute. Then there is a lot of time needed to be invested into reducing the test suite.
 
 Refactoring becomes easier:
-When a developer has well defined tests in place, refactoring code is remarkably simple, as the developer would get instant results on whether this refactored code is passed or not. Writing the well-defined tests can however take a long time, and in the most extremes, writing the tests for a code can even take more time then writing the code itself.
+When a developer has well defined tests in place, refactoring code is remarkably simple, as the developer would get instant results on whether this refactored code has passed or not. Writing a well-defined test however, can take a long time, and in the most extremes, the tests for the code can take more time than writing the code itself.
 
 Faster development:
-If a developer is writing some code and want to test this, if they are not using TDD, they would have to manually do the tests, and this could take a lot of time, where if there are automatic tests, this can be done in a fraction of the time. If, however functionality of the code is changed rapidly, functions are added just to be removed later, the development would suffer, as test suites for the function would still have to made first.
+When a developer is writing some code and want to test it, if they are not using TDD, they would have to manually do the tests. This could take a lot of time. But if there are automatic tests, this can be done in a fraction of the time. If, however functionality of the code is changed rapidly or functions are added just to be removed later, the development would suffer. Because test suites for the function would still have to be made first.
 
 Cleaner Code:
-Starting to use TDD can be hard, because you would have to change your entire way of thinking when it comes to writing code. This will be hard and take a lot of effort. Overtime however you will get the idea, and the code would come more easily and your first pass at writing the code would become better and clearer.
+Starting to use TDD can be hard, because it changes the way of thinking when it comes to writing code. This will be hard and take a lot of effort. Overtime however, the more experience the developer gets, the easier it becomes, and the code would be better and more clearer on the first pass at writing the code.
 
 
 
 \subsection{Why TLD?}
 When looking at the TLD strategy, it can be hard to find a specific “pro TLD” approach in the articles. This comes down to the fact that testing will always be important in the development cycle. This could be the result of TLD already functions well. But now TDD has entered the space of development, and challenges the normality of testing. Because of this, the analysis will look more at the arguments against TDD and turn them around to see if they have a positive counter argument in TLD. 
  
-In the medium article by Simon Redmond he list a few arguments as to why he believes that TDD is not as smart and quick as it is often claimed to be, and how it may accidently trap someone in an unhealthy development pattern. 
+In the medium article by Simon Redmond~\cite{sr2019} he list a few arguments as to why he believes that TDD is not as smart and quick as it is often claimed to be, and how it may accidently trap someone in an unhealthy development pattern. 
  
 Redmond’s main argument to the flaw of TDD is that,  “You end up writing your code to satisfy your test rather than writing code to build your product” ~\cite{sr2019}. In the article he presents a piece of code, for grading papers (Listing \ref{lst:gradecode}). 
 \newline
 \input{GradeCodeSnippet.tex}
 
-The code has the obvious bug that, if a person gets an exact score of 90, the code returns an “F”. He argues, that a competent developer should be able to see the mistake beforehand, and going through a log process of writing test testing before writing the actual method would be unnecessary time cost. If you use TDD or TLD, the bug would have been caught eventually.
+The code has the obvious bug that, if a person gets an exact score of 90, the code returns an “F”. He argues, that a competent developer should be able to see the mistake beforehand, and going through a long process of writing test before writing the actual method would be an unnecessary time cost. If the developer use TDD or TLD, the bug would have been caught eventually.
  
-Redmond’s concern is not about TDD’s ability to write test or code, but if it adds any actual value. Redmond’s biggest concern is that, if developers write tests to satisfy a test, they will lose focus on the actual product, that it takes away the common sense from the developer and ultimately stop the developer form being innovative.\newline  
+Redmond’s concern is not about TDD’s ability to write test or code, but if it adds any actual value. Redmond’s biggest concern is that, if developers write code to satisfy a test, they will lose focus on the actual product, that it takes away the common sense from the developer and ultimately stop the developer form being innovative.\newline  
 
 
-To sum up Redmond’s article. TDD is not a failed test strategy, but there is a lot of extra complexity that might not add any value to the overall process. While bugs get noticed earlier in TDD, it will eventually be caught in TLD also. In TLD however, where it might have less complexity, it does not cost a huge amount on writing tests, to then satisfy them. When you approach testing at the end of the development (TLD) you also get a more complete picture of what you are testing, and can a lot easier write well defined tests. And the process is a lot easier to understand, allowing for more creative powers to play in the actual development.
+To sum up Redmond’s article. TDD is not a failed test strategy, but there is a lot of extra complexity that might not add any value to the overall process. While bugs get noticed earlier in TDD, they will eventually be caught in TLD also. In TLD however, might have less complexity, it does not take a huge amount to write tests, to then satisfy them. When the developer approach testing at the end of the development (TLD) the developer also get a more complete picture of what they are testing, and can write well defined tests a lot easier. The process is a lot easier to understand, allowing for more creative powers to play in the actual development.
  
 It is worth noting that Redmond’s article is subjective, and does little to try actually argue his points, more so than stating them.  
 \subsection{TDD vs TLD - Pros and cons} 
 
 Each of the two test strategies has their pros and cons. Some of the most common pros and cons can be seen 
 in the table
-\ref{table: procons1} and  \ref{table: procons2} ~\cite{sh2015}~\cite{sr2019}
+\ref{table: procons1} and  \ref{table: procons2}
 \begin{center}
 \input{tables.tex}
 \end{center}
