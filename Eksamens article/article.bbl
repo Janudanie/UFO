@@ -1,16 +1,28 @@
 \begin{thebibliography}{1}
 
+\bibitem{ad2020}
+Amruta Deshpande.
+\newblock is tdd the right choice for your small business.
+\newblock
+  \url{https://www.clariontech.com/blog/is-tdd-the-right-choice-for-your-small-business}.
+
+\bibitem{mf2017}
+Maria Filina.
+\newblock Tdd vs bdd: Pros \& cons.
+\newblock \url{https://redwerk.com/blog/behavior-and-test-driven-development/}.
+
 \bibitem{bl2003}
 Boby George and Laurie Williams.
 \newblock A structured experiment of test-driven development.
 \newblock
   \url{https://www.researchgate.net/publication/222831281_A_structured_experiment_of_test-driven_development}.
 
-\bibitem{sh2019}
-Susan Hammond.
-\newblock Risk/reward analysis of test-driven development.
+\bibitem{sl2018}
+Sergey L.
+\newblock Test-driven development: An approach to maintain software quality and
+  cut costs.
 \newblock
-  \url{https://etd.auburn.edu/bitstream/handle/10415/6890/Susan%20Hammond%20Dissertation.pdf?sequence=2&isAllowed=y}.
+  \url{https://www.cleveroad.com/blog/what-is-test-driven-development-and-its-benefits}.
 
 \bibitem{lm2005}
 Lech Madeyski.
@@ -35,5 +47,11 @@ Santosh Shah.
   comparative study.
 \newblock
   \url{http://compilehorrors.com/test-driven-development-tdd-vs-test-last-development-tld-a-comparative-study/}.
+
+\bibitem{various2019}
+various.
+\newblock What are the pros and cons of test-driven development?
+\newblock
+  \url{https://www.quora.com/What-are-the-pros-and-cons-of-test-driven-development}.
 
 \end{thebibliography}
