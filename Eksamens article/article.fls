@@ -81,32 +81,43 @@ INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux
 OUTPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.aux
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\header.tex
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\abstract.tex
+INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Intro.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex
@@ -120,47 +131,35 @@ INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\problem.tex
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 OUTPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\article.pdf
 INPUT C:\Users\Andreas\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\GradeCodeSnippet.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\GradeCodeSnippet.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\GradeCodeSnippet.tex
-INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\GradeCodeSnippet.tex
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omscmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\tex\latex\base\omlcmr.fd
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Hypotese.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\Analysis.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\TLD.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\TLD.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\TLD.tex
+INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\TLD.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\tables.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\tables.tex
 INPUT c:\Users\Andreas\Desktop\UFO\Eksamens Rapport\UFO\Eksamens article\tables.tex
@@ -188,13 +187,9 @@ INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
 INPUT C:\Users\Andreas\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

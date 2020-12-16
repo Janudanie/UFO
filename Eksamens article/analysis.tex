@@ -27,25 +27,7 @@ When a developer is writing some code and want to test it, if they are not using
 Cleaner Code:
 Starting to use TDD can be hard, because it changes the way of thinking when it comes to writing code. This will be hard and take a lot of effort. Overtime however, the more experience the developer gets, the easier it becomes, and the code would be better and more clearer on the first pass at writing the code.
 
-
-
-\subsection{Why TLD?}
-When looking at the TLD strategy, it can be hard to find a specific “pro TLD” approach in the articles. This comes down to the fact that testing will always be important in the development cycle. This could be the result of TLD already functions well. But now TDD has entered the space of development, and challenges the normality of testing. Because of this, the analysis will look more at the arguments against TDD and turn them around to see if they have a positive counter argument in TLD. 
- 
-In the medium article by Simon Redmond~\cite{sr2019} he list a few arguments as to why he believes that TDD is not as smart and quick as it is often claimed to be, and how it may accidently trap someone in an unhealthy development pattern. 
- 
-Redmond’s main argument to the flaw of TDD is that,  “You end up writing your code to satisfy your test rather than writing code to build your product” ~\cite{sr2019}. In the article he presents a piece of code, for grading papers (Listing \ref{lst:gradecode}). 
-\newline
-\input{GradeCodeSnippet.tex}
-
-The code has the obvious bug that, if a person gets an exact score of 90, the code returns an “F”. He argues, that a competent developer should be able to see the mistake beforehand, and going through a long process of writing test before writing the actual method would be an unnecessary time cost. If the developer use TDD or TLD, the bug would have been caught eventually.
- 
-Redmond’s concern is not about TDD’s ability to write test or code, but if it adds any actual value. Redmond’s biggest concern is that, if developers write code to satisfy a test, they will lose focus on the actual product, that it takes away the common sense from the developer and ultimately stop the developer form being innovative.\newline  
-
-
-To sum up Redmond’s article. TDD is not a failed test strategy, but there is a lot of extra complexity that might not add any value to the overall process. While bugs get noticed earlier in TDD, they will eventually be caught in TLD also. In TLD however, might have less complexity, it does not take a huge amount to write tests, to then satisfy them. When the developer approach testing at the end of the development (TLD) the developer also get a more complete picture of what they are testing, and can write well defined tests a lot easier. The process is a lot easier to understand, allowing for more creative powers to play in the actual development.
- 
-It is worth noting that Redmond’s article is subjective, and does little to try actually argue his points, more so than stating them.  
+\input{TLD.tex}
 \subsection{TDD vs TLD - Pros and cons} 
 
 Each of the two test strategies has their pros and cons. Some of the most common pros and cons can be seen 

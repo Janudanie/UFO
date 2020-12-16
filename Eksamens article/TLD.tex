@@ -1,0 +1,56 @@
+\subsection{TLD}
+
+TLD is a very different from TDD. Test Last development does not mean to test at the end of the total application.
+But it entails that the developer execute some unite tests against the code when the developed unit is done. 
+All in all does it mean that all testing is done before code goes into Production. But not automated.~\cite{gm2011}\newline
+
+
+
+TLD Pros and Cons
+It takes less time than TDD. TDD takes up to 16\% longer than TLD.
+~\cite{bl2003} This is due of the high learning curve of TDD. 
+A lot of time in TDD is used on skipping between code and tests and focusing on writing failing tests. 
+Using TLD the code base becomes a lot smaller, and more linear and easy to understand, 
+with simpler code and less Cylomatic complexity. 
+The developer has to spend less time refactoring as the code is written to solve the problem and move on to the next specification. 
+Some of the things TLD lacks is that it has up to 52\% less test than TDD, 
+due to TDD’s aggressive testing. This leads to more bugs in a TLD system. 
+The code also tent to become “uglier” and more solidified, making it hard to change later. 
+Lastly, time is money, and TLD requires a lot more time and effort to maintain later.~\cite{ss2014}\newline
+
+When skimming the pros and cons, we get the idea that, 
+while TLD is easier, the quality is inferior to TDD. 
+Higher quality code is one of the pros of TDD often mentioned. 
+In 2005 by Lech Madeyski made a study on the correlation between TDD, 
+TLD and code quality. ~\cite{lm2005}. The study has 108 developers, 
+spread across experience and coding language. 
+They experiment runs over eight coding sessions, the participants are divided into 4 groups.
+\begin{itemize}
+    \item Solo programming TLD
+    \item Solo programming TDD
+    \item Pair programming TLD
+    \item Pair programming TDD
+\end{itemize}
+
+After the eight sessions, the code is inspected and graded on quality. 
+Lech Madeyski found that the code quality (Measured by acceptance tests passed) 
+was highly affected on which approach was used. 
+What is interesting though was that he found that Solo programmers who used TLD had a better 
+code quality that Solo programmers using TDD. He also found that there was no difference in code 
+quality from the Pair programming groups. This gives a picture, that it is cheaper and better to have a 
+single developer during TLD, than two developer using TDD. ~\cite{lm2005}.
+
+
+
+The medium article by Simon Redmond~\cite{sr2019}, 
+is a more anecdotal and less scientific source, echoes part of Lech Madeyski’s conclusion.
+Redmon believes that using TDD over TLD is a costly effort for very little value. 
+And talks about how aggressive testing for bugs, and writing code to satisfy code. 
+Is time taken away from innovative code and the actual code that progress your product. 
+Possible bugs and errors will be handled later when TLD, just like they would be caught in TDD. 
+Something that can be recognized in the experiment. \newline
+
+Each strategy has its strength and weakness, 
+but the learning curve of the two approaches is one of the big 
+factors when choosing. If you have a more experienced developer team, that has the discipline and overview to write a test first, then write the method. Then the team should consider TDD over TLD. If the developer team has less experience, and are more of the “I need this to work now” kind of developer, 
+the TLD approach should be considered.  

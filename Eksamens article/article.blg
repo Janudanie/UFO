@@ -5,49 +5,57 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 Database file #1: biblo.bib
+Warning--entry type for "ss2014" isn't style-file defined
+--line 8 of file biblo.bib
 Warning--entry type for "sr2019" isn't style-file defined
 --line 16 of file biblo.bib
 Warning--entry type for "sh2019" isn't style-file defined
 --line 32 of file biblo.bib
-You've used 2 entries,
+Warning--entry type for "lm2005" isn't style-file defined
+--line 40 of file biblo.bib
+Warning--entry type for "gm2011" isn't style-file defined
+--line 48 of file biblo.bib
+Warning--entry type for "bl2003" isn't style-file defined
+--line 56 of file biblo.bib
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            504 strings with 4279 characters,
-and the built_in function-call counts, 424 in all, are:
-= -- 36
-> -- 14
+            520 strings with 5054 characters,
+and the built_in function-call counts, 1270 in all, are:
+= -- 111
+> -- 48
 < -- 0
-+ -- 6
-- -- 4
-* -- 12
-:= -- 75
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 8
++ -- 21
+- -- 14
+* -- 36
+:= -- 213
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 25
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 14
-empty$ -- 45
-format.name$ -- 4
-if$ -- 89
+cite$ -- 6
+duplicate$ -- 42
+empty$ -- 133
+format.name$ -- 14
+if$ -- 272
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 6
 missing$ -- 0
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 22
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 67
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 19
 quote$ -- 0
-skip$ -- 12
+skip$ -- 37
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 31
+swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
+type$ -- 24
 warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 20
-(There were 2 warnings)
+while$ -- 12
+width$ -- 7
+write$ -- 56
+(There were 6 warnings)
