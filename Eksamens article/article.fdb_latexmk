@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex article"] 1608145028 "article.aux" "article.bbl" "article" 1608145029
+["bibtex article"] 1608145028 "article.aux" "article.bbl" "article" 1608148732
   "C:/Users/Andreas/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "article.aux" 1608145028 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
+  "article.aux" 1608148732 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
   "biblo.bib" 1608142250 2351 98f70550643bd46cf20b21af7c07dcc6 ""
   (generated)
   "article.blg"
   "article.bbl"
-["pdflatex"] 1608145028 "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex" "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.pdf" "article" 1608145029
-  "Analysis.tex" 1608145026 3027 b56ac9033ca2f75b7a191a0da340928b ""
+["pdflatex"] 1608148731 "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex" "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.pdf" "article" 1608148732
+  "Analysis.tex" 1608148731 3023 3571ee3c6df80888b26833a91547cc3d ""
   "C:/Users/Andreas/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1607253013 11548 255eaafe6c537d7f77615bbcffe2d19d ""
   "C:/Users/Andreas/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1603263446 10258782 eb0c1fc17a3ed9a3856acb8d4fde10cc ""
   "C:/Users/Andreas/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1607957934 81107 70b8516c68c2e617189c5e44bfd16b96 ""
@@ -36,18 +36,18 @@
   "Intro.tex" 1608122762 505 aeb92d4e1cb3925b170a147354151940 ""
   "TLD.tex" 1608144987 3512 33dbe32e3777d1fb58dffcff29beaedc ""
   "abstract.tex" 1608018407 497 89b4c9eaff8e86d3b4c3a92075d86d66 ""
-  "article.aux" 1608145028 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
+  "article.aux" 1608148732 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
   "article.bbl" 1608145028 1398 b6fe6ecc765ffc6475435c65167079c1 "bibtex article"
   "article.tex" 1608121647 328 27152232997ba73222c11e0c00ba1eb3 ""
-  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.aux" 1608145028 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
+  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.aux" 1608148732 1725 6c61140dd799ed5e7ac701227c14a531 "pdflatex"
   "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.tex" 1608121647 328 27152232997ba73222c11e0c00ba1eb3 ""
   "header.tex" 1608122170 413 6ae2077407197138314f5ff0ae757f51 ""
   "problem.tex" 1608123017 824 7fb70558587ca7ca0388bfcfed45d431 ""
   "tables.tex" 1607349280 1314 4c5ce725d46b824fc8bf8ecf0ea85d4a ""
   (generated)
-  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.pdf"
   "article.pdf"
-  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.aux"
   "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.log"
-  "article.log"
+  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.pdf"
+  "c:/Users/Andreas/Desktop/UFO/Eksamens Rapport/UFO/Eksamens article/article.aux"
   "article.aux"
+  "article.log"
